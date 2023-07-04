@@ -1,5 +1,7 @@
 # CSV Combine
 
+![App Screenshot](https://willmaxcy.com/assets/imgs/CSV-Combine.png)
+
 CSV Combine is a Python program that allows you to combine two CSV files based on a common row name. It provides a simple graphical user interface (GUI) using CustomTkinter to select the CSV files, specify the common row name, and combine the data into a new CSV file.
 
 ## Features
